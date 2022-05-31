@@ -1,0 +1,80 @@
+{
+  "name": "markdown_editor_react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/react": "^2.1.2",
+    "@codemirror/basic-setup": "^0.20.0",
+    "@codemirror/commands": "^0.20.0",
+    "@codemirror/gutter": "^0.19.9",
+    "@codemirror/highlight": "^0.19.8",
+    "@codemirror/history": "^0.19.2",
+    "@codemirror/lang-javascript": "^0.20.0",
+    "@codemirror/lang-markdown": "^0.20.0",
+    "@codemirror/language": "^0.20.0",
+    "@codemirror/language-data": "^0.20.0",
+    "@codemirror/matchbrackets": "^0.19.4",
+    "@codemirror/state": "^0.20.0",
+    "@codemirror/theme-one-dark": "^0.20.0",
+    "@codemirror/view": "^0.20.4",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@reduxjs/toolkit": "^1.8.1",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.2.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@uiw/react-codemirror": "^4.7.0",
+    "assert": "^2.0.0",
+    "axios": "^0.27.2",
+    "framer-motion": "^6.3.5",
+    "github-markdown-css": "^5.1.0",
+    "hast-util-sanitize": "^4.0.0",
+    "highlight.js": "^11.5.1",
+    "next-themes": "^0.2.0",
+    "node-sass": "^7.0.1",
+    "process": "^0.11.10",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-icons": "^4.3.1",
+    "react-redux": "^8.0.2",
+    "react-rnd": "^10.3.7",
+    "react-scripts": "^5.0.1",
+    "redux": "^4.2.0",
+    "rehype-highlight": "^5.0.2",
+    "rehype-parse": "^8.0.4",
+    "rehype-react": "^7.1.1",
+    "rehype-sanitize": "^5.0.1",
+    "rehype-stringify": "^9.0.3",
+    "remark": "^14.0.2",
+    "remark-gfm": "^3.0.1",
+    "remark-parse": "^10.0.1",
+    "remark-react": "^9.0.1",
+    "remark-rehype": "^10.1.0",
+    "unified": "^10.1.2",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
