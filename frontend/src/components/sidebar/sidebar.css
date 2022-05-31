@@ -1,0 +1,27 @@
+/* .sidebar-container {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.sidebar-container .icon-lists {
+  width: 10%;
+  display: flex;
+  justify-content: center;
+}
+
+.sidebar-container .icon-lists ul {
+  width: 100%;
+}
+
+.sidebar-container .icon-lists ul li {
+  font-size: 1.7rem;
+}
+
+.sidebar-container .file-lists {
+  width: 90%;
+}
+
+li {
+  list-style: none;
+} */
